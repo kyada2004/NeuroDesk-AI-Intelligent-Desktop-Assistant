@@ -1,0 +1,9 @@
+customtkinter
+pyttsx3
+SpeechRecognition
+huggingface_hub
+requests
+pyaudio
+pyinstaller
+chromadb
+sentence-transformers
